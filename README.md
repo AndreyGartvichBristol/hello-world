@@ -1,2 +1,2 @@
 # hello-world
-tutorial task
+Hi from Mars? Or from Earth?
